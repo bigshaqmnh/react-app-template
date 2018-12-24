@@ -1,4 +1,4 @@
-                                                            REACT-APP-TEMPLATE
+                                                     REACT-APP-TEMPLATE
 
 This is a template for creating an app using React.
 
